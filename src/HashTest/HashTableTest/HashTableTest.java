@@ -1,6 +1,6 @@
 package HashTest.HashTableTest;
 
-public class main {
+public class HashTableTest {
     public static void main(String[] args) {
 
     }
